@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great stream",
+      "id": 1
+    },
+    {
+      "description": "This is another great stream",
+      "title": "Other Stream",
+      "id": 2
+    },
+    {
+      "description": "This is another great stream",
+      "title": "Other Stream",
+      "id": 3
+    },
+    {
+      "title": "Edited History test",
+      "description": "This is a test of the router history (edited)",
+      "id": 5
+    },
+    {
+      "title": "Conor's Strem",
+      "description": "Conor's test stream for this dank ass application.",
+      "uid": "104818436626958344057",
+      "id": 6
+    }
+  ]
+}
